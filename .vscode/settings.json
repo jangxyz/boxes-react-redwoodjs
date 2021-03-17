@@ -7,5 +7,10 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "prettier.configPath": "/Users/kjh/play/boxes/boxes-react-redwoodjs/prettier.config.js",
+  "editor.comments.insertSpace": false,
+  "vim.foldfix": true,
+  "vim.hlsearch": true,
+  "vim.ignorecase": false
 }
